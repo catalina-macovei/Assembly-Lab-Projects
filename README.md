@@ -6,6 +6,8 @@ In this workshop I've explored GitHub and touched on some markdown features such
 - Paragraphs
 - Unordered lists
 
+### Git
+
 Git commands I've learned so far:
 
 - git init
