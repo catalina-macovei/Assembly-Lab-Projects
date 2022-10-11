@@ -1,3 +1,5 @@
-nasm -f elf64 file_name.asm (to compile the program)
+gcc -c file_name.s (to compile the program)
 ld file_name.o -o file_name.out (to link the file with an executable .out)
 ./file_name.out (to execut the program)
+
+

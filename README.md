@@ -19,3 +19,7 @@ Git commands I've learned so far:
 - git pull (this command is used to download content from a remote repository to the local one.)
 - git commit (this command is used to save changes to the local repository. The "-a" flag allows to commit all modified files.)
 - git reset (this command helps you to undo the local changes to the state of a Git repository.)
+
+
+### Assembly
+
